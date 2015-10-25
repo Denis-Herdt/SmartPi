@@ -65,7 +65,7 @@ int main(int argc, char *argv[]) {
 		if(CheckTimer(tv)==1){
 			ten = false;
 			printf("All Switches off");
-			system("sudo ./codesend 15033514");
+			system("sudo ./send 15033505");
 		}
 	}
   }
